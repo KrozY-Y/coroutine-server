@@ -9,3 +9,4 @@ g++-13 -std=c++20 -fcoroutines -o server server.cpp
 #Подключение (Выведет "Hello, World!"): 
 
 curl http://localhost:8080
+
